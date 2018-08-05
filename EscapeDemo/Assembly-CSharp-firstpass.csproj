@@ -111,10 +111,10 @@
     <None Include="Assets\Plugins\Android\ShareSDK\res\drawable\ssdk_weibo_retry_btn_press.xml" />
     <None Include="Assets\Plugins\Demigiant\readme_DOTweenPro.txt" />
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -312,70 +312,70 @@
       <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="DemiLib">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/Demigiant/DemiLib/DemiLib.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/Demigiant/DemiLib/DemiLib.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="DOTween43">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/Demigiant/DOTween/DOTween43.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/Demigiant/DOTween/DOTween43.dll</HintPath>
     </Reference>
     <Reference Include="DOTween46">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/Demigiant/DOTween/DOTween46.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/Demigiant/DOTween/DOTween46.dll</HintPath>
     </Reference>
     <Reference Include="DOTween50">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/Demigiant/DOTween/DOTween50.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/Demigiant/DOTween/DOTween50.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenPro">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
     </Reference>
     <Reference Include="I18N">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/MySql/I18N.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/MySql/I18N.dll</HintPath>
     </Reference>
     <Reference Include="I18N.West">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/MySql/I18N.West.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/MySql/I18N.West.dll</HintPath>
     </Reference>
     <Reference Include="MySql.Data">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/MySql/MySql.Data.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/MySql/MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="System.Data">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/MySql/System.Data.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/MySql/System.Data.dll</HintPath>
     </Reference>
     <Reference Include="System.Drawing">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/MySql/System.Drawing.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/MySql/System.Drawing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements.Editor">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/UnityAds/UnityEngine.Advertisements.Editor.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/UnityAds/UnityEngine.Advertisements.Editor.dll</HintPath>
     </Reference>
     <Reference Include="ChannelPurchase">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/UnityChannel/ChannelPurchase.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/UnityChannel/ChannelPurchase.dll</HintPath>
     </Reference>
     <Reference Include="UnityStore">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/UnityChannel/UnityStore.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/UnityChannel/UnityStore.dll</HintPath>
     </Reference>
     <Reference Include="Editor">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
     </Reference>
     <Reference Include="Purchasing.Common">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
     </Reference>
     <Reference Include="Stores">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
     </Reference>
     <Reference Include="Apple">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
     </Reference>
     <Reference Include="FacebookStore">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
     </Reference>
     <Reference Include="Security">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
     </Reference>
     <Reference Include="Tizen">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
     </Reference>
     <Reference Include="winrt">
-      <HintPath>/Volumes/MacData/UnityProject/EscapeDemo/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
+      <HintPath>/Volumes/MacData/Project/UnityProjects/EscapeDemo/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>/Users/mac/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
